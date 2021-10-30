@@ -4,4 +4,4 @@
 *.iml
 
 # Ignore compiled code
-target/git
+target/
