@@ -34,6 +34,7 @@ public class Application {
                     break;
                 default:
                     System.out.println("Wrong input, please try again");
+                    System.out.println("finish");
 
 
             }
